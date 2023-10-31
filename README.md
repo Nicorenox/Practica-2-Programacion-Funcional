@@ -1,1 +1,1 @@
-# Practica-2-Programaci-n-Funcional-
+# Practica-2-Programacion-Funcional-
