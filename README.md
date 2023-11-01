@@ -29,7 +29,7 @@ The main objective of this project is to provide a clear and practical understan
 
 ### Explanatory Video
 
-In the video/ folder, you will find a detailed explanatory video that accompanies this project. The video provides a clear and concise explanation of the concepts of first-order functions, referential transparency, and parametric polymorphism in Haskell, along with practical examples for better comprehension.
+In the [Video Haskell/](Video Haskell/Video explicativo) folder, you will find a detailed explanatory video that accompanies this project. The video provides a clear and concise explanation of the concepts of first-order functions, referential transparency, and parametric polymorphism in Haskell, along with practical examples for better comprehension.
 
 ## Author
 
