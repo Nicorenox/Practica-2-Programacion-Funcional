@@ -6,8 +6,8 @@ This project focuses on the analysis of student data from a university. The main
 ### Project Structure
 The project is divided into two main files:
 
-Main.java: Contains the main entry point and orchestrates the data analysis operations. 
-Students.java: Defines the Students class to represent student data and provides methods to access this data.
+- Main.java: Contains the main entry point and orchestrates the data analysis operations. 
+- Students.java: Defines the Students class to represent student data and provides methods to access this data.
 
 ### Development Environment
 
