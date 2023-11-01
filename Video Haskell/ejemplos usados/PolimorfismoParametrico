@@ -1,0 +1,6 @@
+identity :: a -> a
+identity x = x
+
+-- Ejemplo de uso
+result1 = identity 5
+result2 = identity 'a'
