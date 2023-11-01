@@ -29,7 +29,7 @@ The main objective of this project is to provide a clear and practical understan
 
 ### Explanatory Video
 
-In the [Video Haskell/](Video Haskell/Video explicativo) folder, you will find a detailed explanatory video that accompanies this project. The video provides a clear and concise explanation of the concepts of first-order functions, referential transparency, and parametric polymorphism in Haskell, along with practical examples for better comprehension.
+In the [Video Haskell/](https://github.com/Nicorenox/Practica-2-Programacion-Funcional-/blob/95dcc4d0b2a5b9ebcc87f152c205c73f19cb1de7/Video%20Haskell/Video%20explicativo) folder, you will find a detailed explanatory video that accompanies this project. The video provides a clear and concise explanation of the concepts of first-order functions, referential transparency, and parametric polymorphism in Haskell, along with practical examples for better comprehension.
 
 ## Author
 
